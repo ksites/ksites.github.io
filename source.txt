@@ -1,0 +1,30 @@
+<! DOCTTYPE HTML>
+<html>
+<head>
+<body>
+<title>FEDERAL GOVERNMENT DEPARTMENTS</TITLE>
+<body background="bg.png">
+<body bgcolor="#E9D5C6">
+<img src="flag.gif" alt="USA Flag"height="30" width="60" align="right">
+<font color="#7A4011" size="10px" ><center><b border="10px">A LIST OF FEDERAL DEPARTMENTS<b></center></font>
+<br>
+<br>
+<hr>
+<hr>
+<table align="center" border="3">
+<tr><td align="center"><h1 align="center">DEPARTMENT OF AGRICULTURE</h1><img src="Arriculture.png" style="padding:30px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><td align="center"><h1 align="center">DEPARTMENT OF COMMERCE</h1><img src="commerce.png"  style="padding:30px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+<tr><td align="center"><h1 align="center">DEPARTMENT OF DEFEMNSE</h1><img src="defense.png"  style="padding:30px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><td align="center"><h1 align="center">DEPARTMENT OF EDUCATION</h1><img src="education.png"  style="padding:30px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+<tr><td align="center"><h1 align="center">DEPARTMENT OF ENERGY</h1><img src="energy.png"  style="padding:30px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><td align="center"><h1 align="center">DEPARTMENT OF HEALTH <BR>AND HUMAN</h1><img src="healthandhuman.png"  style="padding:30px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+<tr><td align="center"><h1 align="center">DEPARTMENT OF HOUSINGH <BR> URBAN SERVICES</h1><img src="housing_and_urban_services.png"  style="padding:30px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><td align="center"><h1 align="center">DEPARTMENT OF INERIOR</h1><img src="Interior.png"  style="padding:30px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+<tr><td align="center"><h1 align="center">DEPARTMENT OF JUSTICE</h1><img src="justice2.png"  style="padding:30px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><td align="center"><h1 align="center">DEPARTMENT OF LABOR</h1><img src="labor.png"  style="padding:30px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+<tr><td align="center"><h1 align="center">DEPARTMENT OF STATE</h1><img src="state.png"  style="padding:20px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><td align="center"><h1 align="center">DEPARTMENT OF TRANSPORTATION</h1><img src="transportation.png"  style="padding:20px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+<tr><td align="center"><h1 align="center">DEPARTMENT OF TREASURY</h1><img src="treasury.png"  style="padding:20px"height="250" width="250" ><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td><br><td align="center"><h1 align="center">DEPARTMENT OF VETRAN AFFIARS</h1><img src="vetran_affiars.png"  style="padding:20px"height="250" width="250"><a href="http://www.w3schools.com/html/"><H3 align="center">CLICK HERE TO VISIT</h3></a></td></tr>
+</table>
+<hr>
+<hr>
+<h4 align="right">Kamaljit Singh <br> </h4>
+
+</table>
+</head>
+</body>
+</html>
